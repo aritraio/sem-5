@@ -24,6 +24,7 @@ Welcome to the BCA Semester-5 study materials and academic repository. This dash
 ## 📚 Subject Details & Resources
 
 ### 1. [BCA50112 - Software Engineering](file:///Users/aritra/Documents/sem-5/BCA50112%20-%20Software%20Engineering)
+* **Syllabus PDF**: [Syllabus_BCA50112.pdf](file:///Users/aritra/Documents/sem-5/BCA50112%20-%20Software%20Engineering/Syllabus_BCA50112.pdf)
 * **Weekly Hours**: 3L + 1T (Total 4 Hours/week) | **Credits**: 4 | **Allotted Hours**: 45L + 15T
 * **Objective**: Know and apply basic principles of software engineering to different applications; apply expertise to design, development, and testing.
 * **Modules**:
@@ -39,6 +40,7 @@ Welcome to the BCA Semester-5 study materials and academic repository. This dash
   * *Reference 3*: Software Engineering: A Practitioner’s Approach, Pressman, McGraw Hill Publication, 9th Edition, 2020.
 
 ### 2. [BCA50113 - Design and Analysis of Algorithm](file:///Users/aritra/Documents/sem-5/BCA50113%20-%20Design%20and%20Analysis%20of%20Algorithm)
+* **Syllabus PDF**: [Syllabus_BCA50113.pdf](file:///Users/aritra/Documents/sem-5/BCA50113%20-%20Design%20and%20Analysis%20of%20Algorithm/Syllabus_BCA50113.pdf)
 * **Weekly Hours**: 4L (Total 4 Hours/week) | **Credits**: 4 | **Allotted Hours**: 60L
 * **Objective**: Equip students with a comprehensive understanding of algorithm development, implementation, and complexity analysis.
 * **Modules**:
@@ -53,6 +55,7 @@ Welcome to the BCA Semester-5 study materials and academic repository. This dash
   * *Reference 2*: The Design and Analysis of Computer Algorithms, Aho, A. V., Hopcroft, J. E., & Ullman, J. D. (1974), Addison-Wesley Series, Pearson.
 
 ### 3. [BCA59114 - Design and Analysis of Algorithm Lab](file:///Users/aritra/Documents/sem-5/BCA59114%20-%20Design%20and%20Analysis%20of%20Algorithm%20Lab)
+* **Syllabus PDF**: [Syllabus_BCA59114.pdf](file:///Users/aritra/Documents/sem-5/BCA59114%20-%20Design%20and%20Analysis%20of%20Algorithm%20Lab/Syllabus_BCA59114.pdf)
 * **Weekly Hours**: 4P (Total 4 Hours/week) | **Credits**: 2 | **Allotted Hours**: 60P
 * **Objective**: Equip students to write programs with different algorithms and implement them to solve real-world problems.
 * **Modules**:
@@ -66,6 +69,7 @@ Welcome to the BCA Semester-5 study materials and academic repository. This dash
   * *Reference 1*: Fundamentals of Computer Algorithms, Ellis Horowitz, Sartaj Sahni and S. Rajasekharan, Universities Press, 2nd edition.
 
 ### 4. [BCA57115 - Full-stack Development - II](file:///Users/aritra/Documents/sem-5/BCA57115%20-%20Full-stack%20Development%20-%20II)
+* **Syllabus PDF**: [Syllabus_BCA57115.pdf](file:///Users/aritra/Documents/sem-5/BCA57115%20-%20Full-stack%20Development%20-%20II/Syllabus_BCA57115.pdf)
 * **Weekly Hours**: 2L + 4P (Total 6 Hours/week) | **Credits**: 4 | **Allotted Hours**: 30L + 60P
 * **Objective**: Understand the different aspects of AngularJS and ReactJS, including directives, state management, forms, routing, API integration, filters, services, and deployment.
 * **Modules**:
@@ -80,6 +84,7 @@ Welcome to the BCA Semester-5 study materials and academic repository. This dash
   * *Reference 1*: The Complete Book on Angular js, AriLerner, Ng-Book, Lightning Source Inc; 1st edition, 2010.
 
 ### 5. [BCA57205 - Machine Learning](file:///Users/aritra/Documents/sem-5/BCA57205%20-%20Machine%20Learning)
+* **Syllabus PDF**: [Syllabus_BCA57205.pdf](file:///Users/aritra/Documents/sem-5/BCA57205%20-%20Machine%20Learning/Syllabus_BCA57205.pdf)
 * **Weekly Hours**: 3L + 2P (Total 5 Hours/week) | **Credits**: 4 | **Allotted Hours**: 45L + 30P
 * **Objective**: Apply basic principles of AI in solutions that require problem solving, inference, perception, knowledge representation, and learning.
 * **Modules**:
@@ -94,6 +99,7 @@ Welcome to the BCA Semester-5 study materials and academic repository. This dash
   * *Reference 2*: Machine Learning Algorithms: Handbook, Clever Fox Publishing, Aman Kharwal, 1st Edition, 2023.
 
 ### 6. [BCA58001 - Project-I](file:///Users/aritra/Documents/sem-5/BCA58001%20-%20Project-I)
+* **Syllabus PDF**: [Syllabus_BCA58001.pdf](file:///Users/aritra/Documents/sem-5/BCA58001%20-%20Project-I/Syllabus_BCA58001.pdf)
 * **Weekly Hours**: NA | **Credits**: 2
 * **Objective**: Manage the scope, cost, timing, and quality of a project. Identify project goals, constraints, deliverables, performance criteria, control needs, and resource requirements in consultation with stakeholders.
 
